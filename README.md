@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @njengac
+- 👋 Hi, I’m Catherine Njenga
 - 👀 I’m interested in nodejs
 - 🌱 I’m currently learning vanilla JavaScript
 - 💞️ I’m looking to collaborate on ...
